@@ -1,1 +1,1 @@
-worker: python
+worker: python control_led.py
